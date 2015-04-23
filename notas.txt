@@ -1,0 +1,7 @@
+Version codeigniter => v2.2.1
+libreria multiidioma => http://jeromejaglale.com/doc/php/codeigniter_i18n
+BD mysql => 5.6
+php => 5.6.3
+servidor web => apache
+
+Al iniciar la aplicación hay un error de framework no alcance a solucionarlo pero no afecta la funcionalidad de la misma.
